@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @brygitto
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+brygitto/brygitto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+Este trabajo fue realizado por Bryan Villamizar y Juliana tamayo, este trabajo consiste en la realizacion de una pagina web que contenga javaScript, Css3 y Html,
+por endehemos decidido realizar una hoja de vida la cual permita mostrarnos al mundo y que las personas interesadas puedan solicitarnos reuniones o enviarnos correos
